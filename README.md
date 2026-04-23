@@ -1,5 +1,4 @@
 # dio-ia-mentor-carreira-tech
-Projeto do bootcamp DIO: mentoria de carreira em tecnologia com dois agentes de IA (Entrevistador + Planejador), com prompts e devolutivas documentados em PDF.
 
 # IA Mentor de Carreira: Descubra Seu Futuro em Tech
 
@@ -61,7 +60,7 @@ Responsável por transformar os dados do Agente 1 em:
 
 ---
 
-## 🗂️ Estrutura do Repositório (sugerida)
+## 🗂️ Estrutura do Repositório
 
 ```text
 .
@@ -69,3 +68,18 @@ Responsável por transformar os dados do Agente 1 em:
 └── docs
     ├── agente-1-entrevistador.pdf
     └── agente-2-planejador.pdf
+```
+---
+## 🧩 Tecnologias e Ferramentas
+
+- **Microsoft Copilot** (para condução dos agentes e devolutivas)
+- **GitHub** (versionamento e publicação)
+- **PDF** (formato de documentação final)
+
+---
+
+## 👤 Autor
+
+**Gabriel Aquino Batista da Silva**
+
+- LinkedIn: _https://www.linkedin.com/in/gabriel-aquino777/_
